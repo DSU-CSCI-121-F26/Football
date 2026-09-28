@@ -1,0 +1,24 @@
+### Instructor solutions - MUST stay ignored ###
+/solution/
+
+### Maven ###
+target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
