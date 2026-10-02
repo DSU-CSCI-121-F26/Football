@@ -20,13 +20,13 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("=== Football ===");
-        // step1();
-        // step2();
-        // step3();
-        // step4();
-        // step5();
-        // step6();
-        // stretch();
+            step1();
+            step2();
+            step3();
+            step4();
+            step5();
+            step6();
+            stretch();
     }
 
     static void header(String title) {
